@@ -51,9 +51,9 @@ const Hero = () => {
               <span> SIGN UP </span>
             </a>
             <a
-              href={""}
+              href={"#dashboard"}
               className="flex items-center gap-2 border- text-[1rem] bg-white border-black px-7 py-2 sm:px-6 rounded-lg font-bold  hover:text-yellow-500"
-              download
+             
             >
               <div className=" flex items-center gap-1">
                 HOW TO USE 
